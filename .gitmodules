@@ -1,0 +1,3 @@
+[submodule "data/multi_language_dataset"]
+	path = data/multi_language_dataset
+	url = git@github.com:agoncalvez/multi_language_dataset.git
